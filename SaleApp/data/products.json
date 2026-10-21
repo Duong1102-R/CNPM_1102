@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12",
+    "price": 14000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/4/_/4_185_2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 13",
+    "price": 15000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/6/0/600_iphone-13-pro-256gb-xanh-la_5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 14",
+    "price": 16000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-14-pro_2__5.png"
+  },
+  {
+    "id": 4,
+    "name": "Iphone 15",
+    "price": 17000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/358x/media/catalog/product/i/p/iphone15-pro-max-titan-den.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Iphone 16",
+    "price": 18000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-16-pro-max.png"
+  },
+  {
+    "id": 6,
+    "name": "Iphone 17",
+    "price": 19000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/x/media/catalog/product/i/p/iphone-17-pro-max_3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Iphone 18",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:358:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-18-pro-max-01.jpg"
+  }
+]
